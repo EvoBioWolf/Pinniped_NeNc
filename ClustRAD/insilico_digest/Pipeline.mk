@@ -7,7 +7,7 @@ ${CUT_1}
 ${CUT_2}
 endef
 
-New: \
+All: \
 	oligo.fa \
 	${ENZYME_1}.bed \
 	${ENZYME_2}.bed \
