@@ -2,8 +2,8 @@
 #the fasta file should have .fa extension
 #give the name without extension
 #for example if the input fasta is Test.fa the NAME variable should be Test
-# In this case the Fasta file name was GCF_000321225.1_Oros_1.0_genomic.fa
-NAME  := GCF_000321225.1_Oros_1.0_genomic
+# In this case the Fasta file name was Odo_ros.fa
+NAME  := Odo_ros
 
 #This will only work for restriction enzymes (SbFI and MseI). The ${NICKPOS} variable is not used
 #enzyme details of rare cutter here (SbFI)
